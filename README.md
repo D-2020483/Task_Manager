@@ -34,18 +34,7 @@ This is a full-stack Task Manager Web Application design to help users efficient
 - 🌐 API Integration – Frontend communicates with a RESTful backend API using Axios
 - ☁️ MongoDB Atlas – Cloud database for scalability and availability
 ---
-### 🔄 How It Works
-1. User Registration and Authentication - New User can Register to the web application.Returning users login in securely via JWT-based authentication.
 
-2. Task Management - After loggin in, users can create new tasks, update existing ones, or delete tasks they no longer need.
-
-3. Filtering and Sorting - User can filter by status (ex: Pending, Completed) and sort them by due dates to organize their workflow efficiently.
-
-4. Data Storage and Retrival - All task data is stored in a MongoDB Atlas cloud database. The backend API handles data requests and updates, ensuring persistent storage.
-
-5. Frontend and Backend Communication - The React frontend communicates with the Node.js/Express backend through RESTful API endpoint using Axios, providing a smooth, real-time user experience.
-
----
 ### 🏗️ Architecture and the ER Diagram of the Application
 <div align="center">
 <img src="https://github.com/user-attachments/assets/ccbe7ed9-43c0-46f7-9341-8515c8a5e774"  alt="Task Manager Architecture" width="48%" style="margin-right: 15px;"/>
@@ -79,6 +68,42 @@ This is a full-stack Task Manager Web Application design to help users efficient
 - Frontend Repo:[Task Manager Frontend](https://github.com/D-2020483/Task_Manager_Frontend)
 - Backend Repo:[Task Manager Backend](https://github.com/D-2020483/Task_Manager_Backend)
 - Deployment Link:[Task Manager Deployment Link](https://task-manager-dinithi.netlify.app)
+- Check the section below to see how to use the deployment link and how its work 
+---
+### 🔄 How It Works
+1. User Registration and Authentication - New User can Register to the web application.Returning users login in securely via JWT-based authentication.
+
+2. Task Management - After loggin in, users can create new tasks, update existing ones, or delete tasks they no longer need.
+
+3. Filtering and Sorting - User can filter by status (ex: Pending, Completed) and sort them by due dates to organize their workflow efficiently.
+
+4. Data Storage and Retrival - All task data is stored in a MongoDB Atlas cloud database. The backend API handles data requests and updates, ensuring persistent storage.
+
+5. Frontend and Backend Communication - The React frontend communicates with the Node.js/Express backend through RESTful API endpoint using Axios, providing a smooth, real-time user experience.
+
+---
+
+### 🗺️ Step By Step Guide
+-👉 Step 1: Register and Login
+-if you are using the Register Form just fill the all the filds and click the Register button(Make sure to remember the password and email that you use to register)
+-if you don't want to register, you can use the dummy credentials I provided to log in
+-(email : 111@gmail.com , password :1122)
+
+-👉 Step 2: Accessing the Dashboard
+-if you use dummy data that (the provided email and the password) you will be taken directly to the dashboard page after loggin in.
+-if you register a new account, after completing the registration you will be redirected to the Login page
+-just enter your registered email and password to log in and access the dashboard
+
+-👉 Step 3: Create a Task
+-Click the ADD TASK button, fill in task details,discription,due date and status, then save.
+
+-👉 Step 4: Filter and Sort Tasks
+-Use the filter options to view tasks by status(Pending, Completed) 
+-Use sorting options to arrange tasks by due date
+
+
+
+
 
 
 
