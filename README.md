@@ -75,8 +75,10 @@ This is a full-stack Task Manager Web Application design to help users efficient
 [🖼️ View full design on Figma](https://www.figma.com/design/F9qN0QT41vJhzcp4Zxoo70/Task_Manager?m=dev&t=vYGF59pfYDqMsGgh-1)
 
 ---
-
-
+🔗 Repositories
+- Frontend Repo:[Task Manager Frontend](https://github.com/D-2020483/Task_Manager_Frontend)
+- Backend Repo:[Task Manager Backend](https://github.com/D-2020483/Employee_Tracker_Backend)
+- Deployment Link:[Task Manager Deployment Link](https://task-manager-dinithi.netlify.app)
 
 
 
