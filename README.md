@@ -84,22 +84,22 @@ This is a full-stack Task Manager Web Application design to help users efficient
 ---
 
 ### 🗺️ Step By Step Guide
--👉 Step 1: Register and Login
--if you are using the Register Form just fill the all the filds and click the Register button(Make sure to remember the password and email that you use to register)
--if you don't want to register, you can use the dummy credentials I provided to log in
--(email : 111@gmail.com , password :1122)
+👉 Step 1: Register and Login
+- if you are using the Register Form just fill the all the filds and click the Register button.(Make sure to remember the password and email that you use to register)
+- if you don't want to register, you can use the dummy credentials I provided to log in.
+- (email : 111@gmail.com , password :1122)
 
--👉 Step 2: Accessing the Dashboard
--if you use dummy data that (the provided email and the password) you will be taken directly to the dashboard page after loggin in.
--if you register a new account, after completing the registration you will be redirected to the Login page
--just enter your registered email and password to log in and access the dashboard
+👉 Step 2: Accessing the Dashboard
+- if you use dummy data that (the provided email and the password) you will be taken directly to the dashboard page after loggin in.
+- if you register a new account, after completing the registration you will be redirected to the Login page.
+- just enter your registered email and password to log in and access the dashboard.
 
--👉 Step 3: Create a Task
--Click the ADD TASK button, fill in task details,discription,due date and status, then save.
+👉 Step 3: Create a Task
+- Click the ADD TASK button, fill in task details,discription,due date and status, then save.
 
--👉 Step 4: Filter and Sort Tasks
--Use the filter options to view tasks by status(Pending, Completed) 
--Use sorting options to arrange tasks by due date
+👉 Step 4: Filter and Sort Tasks
+- Use the filter options to view tasks by status(Pending, Completed) .
+- Use sorting options to arrange tasks by due date.
 
 
 
