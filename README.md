@@ -77,7 +77,7 @@ This is a full-stack Task Manager Web Application design to help users efficient
 ---
 🔗 Repositories
 - Frontend Repo:[Task Manager Frontend](https://github.com/D-2020483/Task_Manager_Frontend)
-- Backend Repo:[Task Manager Backend](https://github.com/D-2020483/Employee_Tracker_Backend)
+- Backend Repo:[Task Manager Backend](https://github.com/D-2020483/Task_Manager_Backend)
 - Deployment Link:[Task Manager Deployment Link](https://task-manager-dinithi.netlify.app)
 
 
