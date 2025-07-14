@@ -102,7 +102,7 @@ This is a full-stack Task Manager Web Application design to help users efficient
 - Use sorting options to arrange tasks by due date.
 ---
 
-
+### 🛠️ Setup Instructions
 
 
 
