@@ -100,6 +100,7 @@ This is a full-stack Task Manager Web Application design to help users efficient
 👉 Step 4: Filter and Sort Tasks
 - Use the filter options to view tasks by status(Pending, Completed) .
 - Use sorting options to arrange tasks by due date.
+---
 
 
 
