@@ -46,7 +46,7 @@ This is a full-stack Task Manager Web Application design to help users efficient
 
 <img width="450" height="280" alt="Login Form" src="https://github.com/user-attachments/assets/3834795b-57d3-4aa6-8144-8b0135113f1a" /><br/>
 
-<img width="450" height="280" alt="task_manager02" src="https://github.com/user-attachments/assets/ebd167eb-1e21-4cf7-af16-fcf60853058a" /> <br/>
+<img width="450" height="280" alt="task_manager02" src="https://github.com/user-attachments/assets/ebd167eb-1e21-4cf7-af16-fcf60853058a" /><br/>
 
 <img width="450" height="280" alt="task_manager03" src="https://github.com/user-attachments/assets/1094fe5f-62e3-40c0-9758-b204430547af" /><br/>
 
@@ -103,6 +103,53 @@ This is a full-stack Task Manager Web Application design to help users efficient
 ---
 
 ### 🛠️ Setup Instructions
+
+Make sure you have the following installed:
+
+- **Node.js**:`v24.3.0`
+- **npm (Node Package Manager)**: `v10.5.1`
+
+### 🖥️ Frontend Setup
+
+👉 Clone the Repository
+
+- Create a folder anywhere on your machine.
+- open a terminal inside that folder.
+- Run the following command to clone the frontend repository
+- git clone https://github.com/D-2020483/Task_Manager_Frontend
+- cd Task_Manager_Frontend
+
+👉 Install Dependencies
+
+- Copy the bellow commands and paste it in your terminal to install the dependencies
+- npm install
+- npm install react react-dom react-router-dom @reduxjs/toolkit react-redux axios @mui/material @emotion/react @emotion/styled lucide-react
+- npm install -D vite tailwindcss postcss autoprefixer @tailwindcss/vite @vitejs/plugin-react-swc eslint @eslint/js eslint-plugin-react-hooks eslint-plugin-react-refresh globals @types/react @types/react-dom
+
+👉 Run the Frontend
+- npm run dev
+
+### 🖥️ Backend Setup
+
+👉 Clone the Repository
+
+- Just hit cd .. in the terminal to get back to the root project folder
+- Run the following command to clone the backend repository
+- git clone https://github.com/D-2020483/Task_Manager_Backend
+- cd Task_Manager_Backend in the terminal
+
+👉 Install Dependencies
+
+- Copy the bellow commands and paste it in your terminal to install the dependencies
+- npm install
+- .env file is already in the code base
+- npm init -y
+- npm install express mongoose cors dotenv bcryptjs jsonwebtoken
+- npm install --save-dev nodemon
+
+👉 Run the Backend
+
+- npm run dev
 
 
 
